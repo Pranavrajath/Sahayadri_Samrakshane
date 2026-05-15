@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sahyadri Samrakshane</string>
+    <string name="report_alert">Report Alert</string>
+    <string name="gps_acquiring">Acquiring GPS…</string>
+    <string name="gps_lock">GPS Lock Acquired</string>
+    <string name="submit_alert">Submit Alert</string>
+    <string name="forest_fire">Forest Fire</string>
+    <string name="landslide">Landslide</string>
+    <string name="illegal_logging">Illegal Tree Cutting</string>
+    <string name="wildlife_sighting">Wildlife Sighting</string>
+</resources>
